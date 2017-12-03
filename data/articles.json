@@ -1,0 +1,131 @@
+[
+    {
+        "file":"Ekipa_filma_posetila_korisnike_Prihvatilista",
+        "title":"Ekipa filma posetila korisnike Prihvatilišta",
+        "summary":"Ekipa filma Smrdljiva bajka povodom 50.000 gledalaca posetila korisnike Prihvatilišta",
+        "date":"14/12/2015",
+        "image":[
+            {"url":"https://scontent-vie1-1.xx.fbcdn.net/hphotos-xlt1/t31.0-8/12363259_1037461062973177_3242088600768725167_o.jpg"}
+        ]
+    },
+    {
+        "file":"Premijera_u_Kikindi",
+        "title":"Premijera Smrdljive bajke u Kikindi",
+        "summary":"Fotografije sa premijere Smrdljive bajke u Kikindi",
+        "date":"09/12/2015",
+        "image":[
+            {"url":"https://scontent-vie1-1.xx.fbcdn.net/hphotos-xfp1/t31.0-8/12188230_10206651985353001_4654056502611363774_o.jpg"}
+        ]
+    },
+    {
+        "file":"Premijere",
+        "title":"Premijere u Aranđelovcu i Sremskoj Mitrovici",
+        "summary":"Sava Centar",
+        "date":"07/12/2015",
+        "image":[
+            {"url":"./image/posterSB.jpg"}
+        ]
+    },
+    {
+        "file":"Smrdljiva_bajka-Zarko_Lausevic",
+        "title":"Sava Centar premijera - video",
+        "summary":"Sava Centar",
+        "date":"04/12/2015",
+        "image":[
+            {"url":"http://static.mondo.rs/Picture/454941/jpeg/JOC_3413.jpg"}
+        ]
+    },
+    {
+        "file":"Film_Smrdljiva_bajka_premijerno_prikazan_u_Velikoj_Plani",
+        "title":"Film Smrdljiva bajka premijerno prikazan u Velikoj Plani",
+        "summary":"Veliki povratak Žarka Lauševića na film, nakon Beograda, Kragujevca i Novog Sada doživeo je uspeh i u Velikoj Plani.",
+        "date":"01/12/2015",
+        "image":[
+            {"url":"http://www.story.rs/gallery/medium/1448995496DSCF6771.jpg"}
+        ],
+        "tags":[
+            {"name":"Story"}
+        ]
+    },
+    {
+        "file":"Premijera_Smrdljiva_bajka_Kragujevac",
+        "title":"Premijera Smrdljiva bajka Kragujevac",
+        "summary":"Story 30.11.2015.",
+        "date":"30/11/2015",
+        "image":[
+            {"url":"http://www.story.rs/gallery/medium/14488973432.jpg"}
+        ],
+        "tags":[
+            {"name":"Story"}
+        ]
+    },
+    {
+        "file":"Premijera_Novi_Sad_26_11_2015",
+        "title":"Premijera Novi Sad 26.11.2015.",
+        "summary":"Foto galerija - slike sa premijere filma Smrdljiva bajka iz Novog Sada",
+        "date":"26/11/2015",
+        "image":[
+            {"url":"https://scontent-vie1-1.xx.fbcdn.net/hphotos-xlf1/v/t1.0-9/12278684_1030514750334475_6246908433991604034_n.jpg?oh=ebfa763a1f60cc1f0e6f0a8d8bb1c92b&oe=56E803D2"}
+        ]
+    },
+    {
+        "file":"Novosadjani_odusevljeni_Lausevicevim_povratkom_na_film",
+        "title":"Novosađani oduševljeni Lauševićevim povratkom na film",
+        "summary":"Nakon velike beogradske premijere filma Smrdljiva bajka, kojim se legendarni Žarko Laušević vratio glumi i novosadska publika je imala priliku da uživa u ovom filmu ali i druženju sa glumcima.",
+        "date":"27/11/2015",
+        "image":[
+            {"url":"http://www.story.rs/gallery/medium/1448642472IMG_9784.jpg"}
+        ],
+        "tags":[
+            {"name":"Story"}
+        ]
+    },
+    {
+        "file":"Ovacije_Lausevicu",
+        "title":"Ovacije Lauševiću!",
+        "summary":"Premijera filma Miroslava Momčilovića \"Smrdljiva bajka\" priča o dvoje beskućnika koje igraju Žarko Laušević i Jelena Đokić, ispraćena je ovacijama od strane publike u prepunom Sava centru.",
+        "date":"26/11/2015",
+        "image":[
+            {"url":"http://static.mondo.rs/Picture/454941/jpeg/JOC_3413.jpg"}
+        ],
+        "tags":[
+            {"name":"Mondo"}
+        ]
+    },
+    {
+        "file":"Stajace_ovacije_za_Smrdljivu_bajku_u_Sava_centru",
+        "title":"Stajaće ovacije za „Smrdljivu bajku“ u Sava centru",
+        "summary":"Svetska premijera filma „Smrdljiva bajka“ scenariste i reditelja Miroslava Momčilovića održana je sinoć u Sava centru a publika u prepunoj sali dugim, gromkim aplauzom na nogama pozdravila je ekipu filma.",
+        "date":"26/11/2015",
+        "image":[
+            {"url":"http://www.blic.rs/data/images/2015-11-26/697898_smrdljiva-bajka251115foto-dusan-milenkovic-281_f.jpg?ver=1448493728"}
+        ],
+        "tags":[
+            {"name":"Blic Online"}
+        ]
+    },
+    {
+        "file":"Premijera_Smrdljive_bajke_Ovacije_Lausevicu",
+        "title":"Premijera filma Smrdljiva bajka - ovacije Lauševiću",
+        "summary":"Dirljiva ljubavno-socijalna priča o dvoje beskućnika koje igraju Laušević i Jelena Đokić, ispraćena je nezapamćenim ovacijama prepunog gledališta – čitav Sava centar bio je „na nogama“.",
+        "date":"26/11/2015",
+        "image":[
+            {"url":"http://www.novosti.rs/upload/thumbs/images/2015//11/25n/Smrdljiva_bajka_rgb_620x0.jpg"}
+        ],
+        "tags":[
+            {"name":"Novosti Online"}
+        ]
+    },
+    {
+        "file":"Moja_karijera_ne_zavisi_od_mene",
+        "title":"Žarko Laušević: Moja karijera ne zavisi od mene",
+        "summary":"Glumac u prvom javnom nastupu posle petnaest godina o ulozi u filmu \"Smrdljiva bajka\". Gluma je moj zanat, deo onoga što sam najviše voleo.",
+        "date":"23/11/2015",
+        "image":[
+            {"url":"http://www.novosti.rs/upload/thumbs/images/2015//11/23n/kul-zarko-lausevic,glumac-2311-_620x0.jpg"}
+        ],
+        "tags":[
+            {"name":"Novosti Online"}
+        ]
+    }
+]

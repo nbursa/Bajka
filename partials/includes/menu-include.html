@@ -1,0 +1,14 @@
+<div class="opb-header-panel" ng-controller="InfoController">
+    <div class="opb-caption">
+        <a href="#/home">Naslovna</a>
+        <a href="" ng-model="collapsed" ng-click="collapsed=!collapsed"><h2>Prikaži/sakrij listu novosti</h2></a><br><br>
+    </div>
+<!-- </div>
+<div> -->
+    <div class="opb-list" ng-controller="HomeController" ng-show="collapsed">
+        <div ng-repeat="item in articles" id="panel-holder">
+            <articlepanel data="item"></articlepanel>
+            <div ng-bind-html="articleText"></div>
+        </div>
+    </div>
+</div>

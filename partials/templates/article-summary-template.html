@@ -1,0 +1,21 @@
+<div id="panel-wrap">
+    <a id="panel-link" href="#/article/{{article.file}}" ng-model="collapsed" ng-click="collapsed=!collapsed">
+        <div class="panel clearfix">
+            <div class="panel-heading">
+                <div class="panel-img">
+                    <img ng-repeat="img in article.image" src="{{img.url}}">
+                </div>
+            </div>
+            <div class="panel-body">
+                <h3 class="panel-title">
+                    {{article.title}}
+                </h3>
+                <p>{{article.summary}}</p>
+                <small><i>{{article.date}}</i></small>
+                <div class="label" ng-repeat="tag in article.tags" style="margin-left:1px;">
+                    {{tag.name}}
+                </div>
+            </div>
+        </div>
+    </a>
+</div>
